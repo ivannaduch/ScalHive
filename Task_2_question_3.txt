@@ -5,15 +5,15 @@ requirements for 'Add contact' form, and I would like clarify some things.
 
 Data validation
 
-•	What is the system response, if user has already exist to contacts form?
-•	What is the type of data validation in the fields?
-•	What is the system response, if user close the form and did not save the entered data before?
-•	How many others fields 'Email and Phone' user can add?
-•	Is the field 'Name' could contains space without any characters?
+â€¢	What is the system response, if user has already exist to contacts form?
+â€¢	What is the type of data validation in the fields?
+â€¢	What is the system response, if user close the form and did not save the entered data before?
+â€¢	How many others fields 'Email and Phone' user can add?
+â€¢	Is the field 'Name' could contains space without any characters?
 
 Security validation 
 
-•	Can a user copy the data and paste to the fields with CTRL + C and CTRL + V?
+â€¢	Can a user copy the data and paste to the fields with CTRL + C and CTRL + V?
 
 Please review my letter with questions regarding 'Add contact' form, 
 and I hope to get the response regarding clarification of requirements.
