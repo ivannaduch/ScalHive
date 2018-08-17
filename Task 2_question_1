@@ -1,0 +1,13 @@
+
+User story
+As an unregistred user, I can sign up for the site,
+so that I'm able to have accsess to the information of another users.
+
+As a registered user.I want to have acsess to my personal account,
+so that i can change my personal data,and will be able to log out from the site and deactivate personal account.
+
+As a member of group, I want to only see updates from another members of that group,
+so that i can view relevant updates during my time online
+
+As an admin .I want to create and deactivate contacts, create groups and destracted groups of users,
+that i can caheck information about members of group and edit group information.
